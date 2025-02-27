@@ -1,0 +1,1 @@
+print('Treinando git para o dojo')
